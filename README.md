@@ -46,8 +46,8 @@ I believe in **clean code**, **continuous learning**, and **collaborative forgin
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansssh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width=300>
-  <img src="https://github-readme-stats.vercel.app/api?username=ansssh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Profile views" width=300>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansssh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width=300> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ansssh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Profile views" >
 </div>
 
 ---
