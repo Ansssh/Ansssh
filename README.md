@@ -47,7 +47,8 @@ I believe in **clean code**, **continuous learning**, and **collaborative forgin
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansssh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width=300> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ansssh&hide_border=true" alt="Streak">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ansssh)](https://git.io/streak-stats)
+  
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ansssh&hide_border=true)](https://git.io/streak-stats) -->
 </div>
 
