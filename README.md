@@ -40,11 +40,3 @@ My work often involves:
 > — Steve Jobs
 
 I believe in **clean code**, **continuous learning**, and **collaborative forging** of solutions. Every challenge is an opportunity to refine the blade.
-
-
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ansssh&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
----
